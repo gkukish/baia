@@ -1,0 +1,11 @@
+numpy
+pandas
+geopandas
+matplotlib
+seaborn
+folium
+pymc
+xarray
+netCDF4
+scikit-learn
+jupyter

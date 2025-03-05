@@ -1,4 +1,4 @@
-# Urban Climate Resilience Platform
+# Baia: Bayesian Analytics for Infrastructure Advancement
 
 A platform that uses Bayesian statistical models to predict climate change impacts on urban infrastructure and suggest cost-effective adaptation strategies.
 
